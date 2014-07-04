@@ -1,0 +1,29 @@
+[
+  {
+    "repository": "android_device_motorola_msm8226-common",
+    "target_path": "device/motorola/msm8226-common"
+  },
+  {
+    "remote": "github",
+    "repository": "klozz/android_device_motorola_qcom-common",
+    "target_path": "device/motorola/qcom-common"
+  },
+  {
+    "remote": "github",
+    "repository": "Cyanogenmod/android_device_qcom_common",
+    "target_path": "device/qcom/common",
+    "revision": "cm-11.0"
+  },
+  {
+    "remote": "github",
+    "repository": "XPerience-NXT/android_kernel_motorola_msm8226",
+    "target_path": "kernel/motorola/msm8226",
+    "revision": "cm-11.0"
+  },
+  {
+    "remote": "Mup",
+    "repository": "proprietary_vendor_motorola",
+    "target_path": "vendor/motorola",
+    "revision": "cm-11.0"
+  }
+]
